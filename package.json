@@ -1,0 +1,22 @@
+{
+  "name": "react-formbuilder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PhilNehaev/react-formbuilder.git"
+  },
+  "keywords": [
+    "react-component"
+  ],
+  "author": "philnehaev <philipp.nehaev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilNehaev/react-formbuilder/issues"
+  },
+  "homepage": "https://github.com/PhilNehaev/react-formbuilder"
+}
